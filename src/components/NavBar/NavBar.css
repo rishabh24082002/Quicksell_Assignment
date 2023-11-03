@@ -1,0 +1,34 @@
+.newSelectGroup {
+    padding: 3px;
+  }
+  
+  .newDisplayButton {
+    position: relative;
+  }
+  
+  .newDropOnClick {
+    position: absolute;
+    width: 250px;
+    background-color: #f8f8fa;
+    border-radius: 10px;
+    margin-top: 10px;
+    z-index: 10;
+  }
+  
+  .newDropOnClick > * {
+    width: 100%;
+  }
+  
+  .newButton {
+    background: #f8f8fa;
+    border: 1px solid silver;
+    border-radius: 10px;
+  }
+  
+  .newSelectStyle {
+    width: 100px;
+    border-radius: 5px;
+    background: white;
+    padding: 2px 5px;
+  }
+  
